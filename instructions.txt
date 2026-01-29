@@ -1,0 +1,72 @@
+ "Frisk Evolution" (Keep template structure, upgrade colors)
+Best for: Minimal changes to template, keeping lime energy
+Replace Frisk's lime yellow with Electric Lime: #ccff00 (more saturated, modern)
+Add Deep Navy: #0a192f (instead of pure black)
+Accent: #64ffda (Aqua/teal for AI feel)
+Keep the high-contrast black/white but add subtle dark mode option
+📝 Content Strategy & Structure Modifications
+1. Hero Section (Above the Fold)
+Current Frisk: "Next Generation Digital Agency" + image placeholder
+Viraltech Version:
+Headline: "AI That Actually Works for Your Business" or "Automate Intelligence. Amplify Growth."
+Subheadline: Brief value prop (1 line)
+Visual: Animated gradient text or 3D AI brain visualization (not static image)
+CTA: "Start Free Trial" (Primary) + "Watch Demo" (Secondary)
+Trust Bar: Logos of 5 recognizable companies (even if "Used by teams at [logos]")
+Engagement Hack: Add a live AI demo widget in the hero (e.g., "Try our AI: Type a prompt → See result"). This increases time-on-page by 40%+.
+2. Services Section (Critical Change)
+Current Frisk: Accordion list (Branding, Illustration, etc.)
+Viraltech Version: Interactive Bento Grid or Hover Cards
+Instead of hiding content in accordions (low engagement), use:
+Copy
+[AI/ML] [Computer Vision] [Generative AI]
+[Consulting] [Web/App Dev] [SaaS Dev] [UI/UX]
+Each card should have:
+Icon: Animated Lottie or SVG (not static)
+Title: Bold, clear
+One-line description
+Hover effect: Card lifts + glows with accent color + shows "Learn More" arrow
+Why: Accordions hide information; cards encourage exploration. Gamified interactions increase engagement.
+3. Portfolio → "AI Solutions" Showcase
+Current Frisk: Image placeholders with project titles
+Viraltech Version: Product UI Previews
+Show actual interface mockups of:
+AI Dashboard with data visualization
+Chatbot interface
+Computer vision detection overlay
+SaaS platform backend
+Add category tags: "Machine Learning" | "Computer Vision" | "Generative AI" (filterable)
+4. Add Missing SaaS Sections
+Frisk is an agency template; you need these SaaS-specific additions:
+A. Stats/Social Proof Section
+"10M+ Predictions Made"
+"99.9% Uptime"
+"50+ Enterprise Clients"
+Client logos (grid of 6-8)
+B. Integration Ecosystem
+"Works with your stack" - logos of Slack, Salesforce, Zapier, etc.
+C. Pricing Section (Essential for SaaS)
+3-tier cards:
+Starter ($49/mo)
+Professional ($149/mo) - Highlighted with glow effect
+Enterprise (Custom)
+D. Testimonials with Video
+Text testimonials convert less than video. Add video thumbnails with play buttons.
+⚡ Engagement-Boosting Design Modifications
+Visual Effects to Add:
+Gradient Text: Use the thermal/cyan-purple gradient on the main headline (CSS background-clip: text)
+Glow Effects: Subtle box-shadow glows on hover (0 0 30px rgba(0, 240, 255, 0.3))
+Animated Backgrounds:
+Gradient mesh that slowly shifts (not distracting, 20s loop)
+Or particle network (connecting dots) representing "neural networks"
+Glassmorphism: Use on navigation and cards (backdrop-filter: blur(10px), semi-transparent borders)
+Dynamic Cursor: Custom cursor that changes size/color when hovering over clickable elements
+Typography Upgrades:
+Headings: Inter or Space Grotesk (bold, technical feel)
+Body: Inter or Satoshi (clean, readable)
+Accent: Use a monospace font for technical terms (e.g., "API", "ML", "GPT")
+Micro-interactions (Critical for Engagement):
+Buttons: Magnetic hover effect (follows cursor slightly)
+Cards: 3D tilt effect on mousemove
+Loading states: Skeleton screens with shimmer gradient
+Scroll: Parallax on images, text reveals

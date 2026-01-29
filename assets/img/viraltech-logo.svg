@@ -1,0 +1,14 @@
+<svg width="180" height="40" viewBox="0 0 180 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#64ffda;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ccff00;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- V Icon with gradient -->
+  <path d="M5 8L15 32L25 8" stroke="url(#logoGradient)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Viraltech text -->
+  <text x="35" y="28" font-family="Inter, Space Grotesk, sans-serif" font-size="24" font-weight="700" fill="currentColor">
+    <tspan fill="currentColor">Viral</tspan><tspan fill="url(#logoGradient)">tech</tspan>
+  </text>
+</svg>
